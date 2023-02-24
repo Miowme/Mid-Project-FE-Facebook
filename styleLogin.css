@@ -1,0 +1,103 @@
+body{
+  text-align: center;
+}
+.container{
+  display: block;
+  position: absolute;
+  left: 42%;
+}
+h1{
+  font: roboto;
+  font-size: 28px;
+  color: rgb(59 89 152);
+}
+input{
+  width: 280px;
+  height: 40px;
+  font-size: 17px;
+  background: rgb(240 240 240);
+  border: 1px solid rgb( 190 190 190);
+  border-radius:8px;
+}
+#pass{
+  position: relative;
+  top: 6px;
+}
+#login{
+  width: 280px;
+  height: 36px;
+  background: rgb(59 89 152);
+  border: none;
+  font-size: 18px;
+  color: white;
+  border-radius: 6px;
+}
+.line{
+  background: black;
+  width: 114px;
+  height: 1px;
+  position: absolute;
+  top: 236px;
+}
+#l1{
+  left: 2%;
+}
+#l2{
+  left: 57%;
+}
+#or{
+  font-size: 18.5px;
+  position: relative;
+  top: 8px;
+}
+#cna{
+  background:rgb(0 160 0);
+  color: white;
+  border: none;
+  font-size: 13px;
+  margin-top: 30px;
+  padding: 10px 16px;
+  border-radius: 6px;
+}
+a{
+  text-decoration: none;
+}
+#fp{
+  font-weight: 320;
+  position: relative;
+  top: 10px;
+}
+#lang{
+  position: relative;
+  top: 40px;
+  font-size: 14px;
+  color: rgb(100 100 160);
+  font-weight: 310;
+}
+#lang1{
+  position: absolute;
+  right: 200px;
+}
+#lang2{
+  position: absolute;
+  right: 16px;
+}
+#eng{
+  color: grey;
+}
+#plus{
+  border: 1px solid rgb(100 100 160);
+  width: 22px;
+  border-radius: 4px;
+  color: grey;
+}
+footer{
+  position: absolute;
+  top: 530px;
+  left: 30%;
+  color: grey;
+}
+#ahm{
+  font-size: 14px;
+  font-weight: 300;
+}
